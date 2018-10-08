@@ -1,0 +1,54 @@
+{
+    "totalSize": 6,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWqQAM"
+            },
+            "Cars__c": "@refa010S000003EDKuQAO",
+            "Colors__c": "@refa020S000001aDPbQAM"
+        },
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWlQAM"
+            },
+            "Cars__c": "@refa010S000003EDKzQAO",
+            "Colors__c": "@refa020S000001aDPWQA2"
+        },
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWmQAM"
+            },
+            "Cars__c": "@refa010S000003EDKvQAO",
+            "Colors__c": "@refa020S000001aDPHQA2"
+        },
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWnQAM"
+            },
+            "Cars__c": "@refa010S000003EDKvQAO",
+            "Colors__c": "@refa020S000001aDPMQA2"
+        },
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWvQAM"
+            },
+            "Cars__c": "@refa010S000003EDKuQAO",
+            "Colors__c": "@refa020S000001aDPRQA2"
+        },
+        {
+            "attributes": {
+                "type": "CarColor__c",
+                "referenceId": "refa000S000001pUWgQAM"
+            },
+            "Cars__c": "@refa010S000003EDKzQAO",
+            "Colors__c": "@refa020S000001aDPbQAM"
+        }
+    ]
+}

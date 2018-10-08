@@ -1,0 +1,27 @@
+{
+    "totalSize": 3,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Car__c",
+                "referenceId": "refa010S000003EDKuQAO"
+            },
+            "Name": "Porche"
+        },
+        {
+            "attributes": {
+                "type": "Car__c",
+                "referenceId": "refa010S000003EDKvQAO"
+            },
+            "Name": "Camaro"
+        },
+        {
+            "attributes": {
+                "type": "Car__c",
+                "referenceId": "refa010S000003EDKzQAO"
+            },
+            "Name": "Audi"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "totalSize": 10,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFuEQAW"
+            },
+            "AccountId": "@ref0010S00000C1t21QAB",
+            "IsPrivate": false,
+            "Name": "Express Logistics Standby Generator",
+            "StageName": "Closed Won",
+            "Amount": 220000,
+            "Probability": 100,
+            "CloseDate": "2018-06-27",
+            "Type": "New Customer",
+            "LeadSource": "Trade Show",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFuXQAW"
+            },
+            "AccountId": "@ref0010S00000C1t21QAB",
+            "IsPrivate": false,
+            "Name": "Express Logistics SLA",
+            "StageName": "Perception Analysis",
+            "Amount": 120000,
+            "Probability": 70,
+            "CloseDate": "2018-06-26",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Pipeline"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFuYQAW"
+            },
+            "AccountId": "@ref0010S00000C1t22QAB",
+            "IsPrivate": false,
+            "Name": "University of AZ SLA",
+            "StageName": "Closed Won",
+            "Amount": 90000,
+            "Probability": 100,
+            "CloseDate": "2018-07-05",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "Public Relations",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFuZQAW"
+            },
+            "AccountId": "@ref0010S00000C1t1wQAB",
+            "IsPrivate": false,
+            "Name": "Burlington Textiles Weaving Plant Generator",
+            "StageName": "Closed Won",
+            "Amount": 235000,
+            "Probability": 100,
+            "CloseDate": "2018-08-06",
+            "Type": "New Customer",
+            "LeadSource": "Web",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFuaQAG"
+            },
+            "AccountId": "@ref0010S00000C1t20QAB",
+            "IsPrivate": false,
+            "Name": "United Oil Installations",
+            "StageName": "Closed Won",
+            "Amount": 235000,
+            "Probability": 100,
+            "CloseDate": "2018-08-08",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFubQAG"
+            },
+            "AccountId": "@ref0010S00000C1t20QAB",
+            "IsPrivate": false,
+            "Name": "United Oil Emergency Generators",
+            "StageName": "Closed Won",
+            "Amount": 440000,
+            "Probability": 100,
+            "CloseDate": "2018-07-21",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFucQAG"
+            },
+            "AccountId": "@ref0010S00000C1t1zQAB",
+            "IsPrivate": false,
+            "Name": "Grand Hotels SLA",
+            "StageName": "Closed Won",
+            "Amount": 90000,
+            "Probability": 100,
+            "CloseDate": "2018-06-24",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFudQAG"
+            },
+            "AccountId": "@ref0010S00000C1t20QAB",
+            "IsPrivate": false,
+            "Name": "United Oil Standby Generators",
+            "StageName": "Closed Won",
+            "Amount": 120000,
+            "Probability": 100,
+            "CloseDate": "2018-09-23",
+            "Type": "Existing Customer - Upgrade",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Closed"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "ref0060S000006FFueQAG"
+            },
+            "AccountId": "@ref0010S00000C1t1zQAB",
+            "IsPrivate": false,
+            "Name": "Grand Hotels Emergency Generators",
+            "StageName": "Closed Won",
+            "Amount": 210000,
+            "Probability": 100,
+            "CloseDate": "2018-09-11",
+            "Type": "New Customer",
+            "LeadSource": "External Referral",
+            "ForecastCategoryName": "Closed"
+        }
+    ]
+}

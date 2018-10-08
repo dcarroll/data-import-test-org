@@ -1,0 +1,48 @@
+{
+    "totalSize": 6,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPHQA2"
+            },
+            "Name": "Red"
+        },
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPWQA2"
+            },
+            "Name": "Silver"
+        },
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPbQAM"
+            },
+            "Name": "Green"
+        },
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPCQA2"
+            },
+            "Name": "Blue"
+        },
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPRQA2"
+            },
+            "Name": "Yellow"
+        },
+        {
+            "attributes": {
+                "type": "Color__c",
+                "referenceId": "refa020S000001aDPMQA2"
+            },
+            "Name": "White"
+        }
+    ]
+}

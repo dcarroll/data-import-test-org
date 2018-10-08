@@ -1,0 +1,81 @@
+{
+    "totalSize": 10,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "ref5000S000002VXoYQAW"
+            },
+            "ContactId": "@ref0030S00000DL1xgQAD",
+            "AccountId": "@ref0010S00000C1t1vQAB",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "Reason": "Equipment Complexity",
+            "Origin": "Phone",
+            "Subject": "Starting generator after electrical failure",
+            "Priority": "High",
+            "IsEscalated": false
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "ref5000S000002VXoaQAG"
+            },
+            "ContactId": "@ref0030S00000DL1xnQAD",
+            "AccountId": "@ref0010S00000C1t20QAB",
+            "Type": "Electrical",
+            "Status": "New",
+            "Reason": "Installation",
+            "Origin": "Web",
+            "Subject": "Seeking guidance on electrical wiring installation for GC5060",
+            "Priority": "Low",
+            "IsEscalated": false
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "ref5000S000002VXobQAG"
+            },
+            "ContactId": "@ref0030S00000DL1xpQAD",
+            "AccountId": "@ref0010S00000C1t21QAB",
+            "Type": "Other",
+            "Status": "Closed",
+            "Reason": "Installation",
+            "Origin": "Web",
+            "Subject": "Easy installation process",
+            "Priority": "Low",
+            "IsEscalated": false
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "ref5000S000002VXofQAG"
+            },
+            "ContactId": "@ref0030S00000DL1xlQAD",
+            "AccountId": "@ref0010S00000C1t1zQAB",
+            "Type": "Structural",
+            "Status": "Closed",
+            "Reason": "Breakdown",
+            "Origin": "Phone",
+            "Subject": "Structural breakdown of rotor assembly",
+            "Priority": "Medium",
+            "IsEscalated": false
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "ref5000S000002VXogQAG"
+            },
+            "ContactId": "@ref0030S00000DL1xlQAD",
+            "AccountId": "@ref0010S00000C1t1zQAB",
+            "Type": "Other",
+            "Status": "Closed",
+            "Reason": "Feedback",
+            "Origin": "Web",
+            "Subject": "Customer service for portable generators needs beefing up",
+            "Priority": "Low",
+            "IsEscalated": false
+        }
+    ]
+}
